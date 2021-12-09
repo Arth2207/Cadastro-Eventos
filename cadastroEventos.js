@@ -9,7 +9,7 @@ let dataEvento = 21/12/2021;
     if(listaDeParticipantes.length > 100){
         console.log("o evento não poderá exceder 100 participantes")
     } else{
-        console.log("Evento criado com sucesso")
+        console.log("Participantes cadastrados")
     } 
     let idadedoParticipante = 17;
     if(idadedoParticipante >= 18) {
